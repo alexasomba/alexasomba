@@ -1,21 +1,24 @@
-# Hi — I'm Alex
+# Hi — I'm Alex 🚀
 
-Fullstack Engineer obsessed with DX & performance.
+**Fullstack Engineer** passionate about **developer experience** and **performance at scale**.
+I craft tools that make the web **faster, simpler, and more open**.
+## My Main Stack
 - ![Static Badge](https://img.shields.io/badge/Astro-framework-blue?logo=astro
-) for Marketing
+) for **marketing sites**
 - ![Static Badge](https://img.shields.io/badge/Hono-js-blue?logo=hono
-) for APIs
+) for **lightning‑fast APIs**
 - ![Static Badge](https://img.shields.io/badge/Tanstack-Start-blue?logo=tanstack
-) for SSR
+) for **SSR & routing**
 - ![Static Badge](https://img.shields.io/badge/Cloudflare--blue?logo=cloudflare) ![Static Badge](https://img.shields.io/badge/Cloudflare-Workers-blue?logo=cloudflareworkers)
-   for scale.
-
-I build tools that make the web faster, simpler, and more open.
-Available for collaboration, contract roles, and mentoring.
-
+   for **global scale & edge delivery**.
+## What I Do
+- Build performant, DX‑focused frameworks and integrations
+- Help teams ship faster with modern tooling
+- Mentor engineers on fullstack best practices
 ---
 
-Thanks for stopping by — if anything here resonates and you think we could build something great together, let's connect.
+## Let’s Connect
+If this resonates and you think we could build something great together:
+Email: alex@asomba.com
 
-## Contact / Let's talk
-- Email: alex@asomba.com
+💬 Open to collaboration, contract roles, and mentoring
