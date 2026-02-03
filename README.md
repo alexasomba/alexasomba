@@ -1,6 +1,14 @@
-# Hi — I'm Alexander (Alex) Asomba 👋
+# Hi — I'm Alex
 
-Fullstack Engineer obsessed with DX & performance. Astro for Marketing, Hono for APIs, TanStack Start for SSR, Cloudflare Workers for scale.
+Fullstack Engineer obsessed with DX & performance.
+- ![Static Badge](https://img.shields.io/badge/Astro-framework-blue?logo=astro
+) for Marketing
+- ![Static Badge](https://img.shields.io/badge/Hono-js-blue?logo=hono
+) for APIs
+- ![Static Badge](https://img.shields.io/badge/Tanstack-Start-blue?logo=tanstack
+) for SSR
+- ![Static Badge](https://img.shields.io/badge/Cloudflare--blue?logo=cloudflare) ![Static Badge](https://img.shields.io/badge/Cloudflare-Workers-blue?logo=cloudflareworkers)
+   for scale.
 
 I build tools that make the web faster, simpler, and more open.
 Available for collaboration, contract roles, and mentoring.
