@@ -9,7 +9,7 @@ I craft tools that make the web **faster, simpler, and more open**.
 ) for **lightning‑fast APIs**
 - ![Static Badge](https://img.shields.io/badge/Tanstack-Start-blue?logo=tanstack
 ) for **SSR & routing**
-- ![Static Badge](https://img.shields.io/badge/Cloudflare--blue?logo=cloudflare) ![Static Badge](https://img.shields.io/badge/Cloudflare-Workers-blue?logo=cloudflareworkers)
+- ![Static Badge](https://img.shields.io/badge/Cloudflare--blue?logo=cloudflare) & ![Static Badge](https://img.shields.io/badge/Cloudflare-Workers-blue?logo=cloudflareworkers)
    for **global scale & edge delivery**.
 ## What I Do
 - Build performant, DX‑focused frameworks and integrations
