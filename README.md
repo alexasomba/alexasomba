@@ -4,11 +4,11 @@
 I craft tools that make the web **faster, simpler, and more open**.
 ## My Main Stack
 - ![Static Badge](https://img.shields.io/badge/Astro-framework-blue?logo=astro
-) for **marketing sites**
+) for **Marketing websites & landing pages**
 - ![Static Badge](https://img.shields.io/badge/Hono-js-blue?logo=hono
-) for **lightning‑fast APIs and Javascript/Typescipt Workers**
+) for **lightning‑fast APIs & Workers**
 - ![Static Badge](https://img.shields.io/badge/Tanstack-Start-blue?logo=tanstack
-) for **SSR, routing, AI and more**
+) for **SSR, routing & AI**
 - ![Static Badge](https://img.shields.io/badge/Cloudflare--blue?logo=cloudflare) & ![Static Badge](https://img.shields.io/badge/Cloudflare-Workers-blue?logo=cloudflareworkers)
    for **global scale & edge delivery**.
 ## What I Do
