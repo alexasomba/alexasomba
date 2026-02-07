@@ -1,14 +1,14 @@
 # Hi — I'm Alex 🚀
 
-**Fullstack Engineer** passionate about **developer experience** and **performance at scale**.
+**Fullstack AI Engineer** passionate about **developer experience** and **performance at scale**.
 I craft tools that make the web **faster, simpler, and more open**.
 ## My Main Stack
 - ![Static Badge](https://img.shields.io/badge/Astro-framework-blue?logo=astro
 ) for **marketing sites**
 - ![Static Badge](https://img.shields.io/badge/Hono-js-blue?logo=hono
-) for **lightning‑fast APIs**
+) for **lightning‑fast APIs and Javascript/Typescipt Workers**
 - ![Static Badge](https://img.shields.io/badge/Tanstack-Start-blue?logo=tanstack
-) for **SSR & routing**
+) for **SSR, routing, AI and more**
 - ![Static Badge](https://img.shields.io/badge/Cloudflare--blue?logo=cloudflare) & ![Static Badge](https://img.shields.io/badge/Cloudflare-Workers-blue?logo=cloudflareworkers)
    for **global scale & edge delivery**.
 ## What I Do
