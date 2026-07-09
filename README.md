@@ -7,7 +7,7 @@ I craft tools that make the web **faster, simpler, and more open**.
 - Help teams ship faster with modern tooling
 - Mentor engineers on fullstack best practices
 ## Tools I Use:
-- ![Static Badge](https://img.shields.io/badge/Astro-framework-blue?logo=astro
+![Static Badge](https://img.shields.io/badge/Astro-framework-blue?logo=astro
 ) ![Static Badge](https://img.shields.io/badge/Hono-js-blue?logo=hono
 ) ![Static Badge](https://img.shields.io/badge/Tanstack-Start-blue?logo=tanstack
 ) ![Static Badge](https://img.shields.io/badge/Cloudflare--blue?logo=cloudflare) & ![Static Badge](https://img.shields.io/badge/Cloudflare-Workers-blue?logo=cloudflareworkers)
