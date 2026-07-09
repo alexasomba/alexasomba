@@ -2,15 +2,11 @@
 
 **Fullstack AI Engineer** passionate about **developer experience** and **performance at scale**.
 I craft tools that make the web **faster, simpler, and more open**.
-## My Main Stack
+## Tools I Use:
 - ![Static Badge](https://img.shields.io/badge/Astro-framework-blue?logo=astro
-) for **Marketing websites & landing pages**
-- ![Static Badge](https://img.shields.io/badge/Hono-js-blue?logo=hono
-) for **lightning‑fast APIs & Workers**
-- ![Static Badge](https://img.shields.io/badge/Tanstack-Start-blue?logo=tanstack
-) for **SSR, routing & AI**
-- ![Static Badge](https://img.shields.io/badge/Cloudflare--blue?logo=cloudflare) & ![Static Badge](https://img.shields.io/badge/Cloudflare-Workers-blue?logo=cloudflareworkers)
-   for **global scale, ai agents & edge delivery**.
+) | ![Static Badge](https://img.shields.io/badge/Hono-js-blue?logo=hono
+) ![Static Badge](https://img.shields.io/badge/Tanstack-Start-blue?logo=tanstack
+) ![Static Badge](https://img.shields.io/badge/Cloudflare--blue?logo=cloudflare) & ![Static Badge](https://img.shields.io/badge/Cloudflare-Workers-blue?logo=cloudflareworkers)
 ## What I Do
 - Build performant, DX‑focused frameworks and integrations
 - Help teams ship faster with modern tooling
